@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "591692586605",
+    "firebase_url": "https://messengertry-321a1.firebaseio.com",
+    "project_id": "messengertry-321a1",
+    "storage_bucket": "messengertry-321a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591692586605:android:47fdcf30a4cfc72a",
+        "android_client_info": {
+          "package_name": "chuan.messengertry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591692586605-ueilquvusul49p0h3aqu7b11egdku4oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chuan.messengertry",
+            "certificate_hash": "9c129e1dc795f1b3d7b09a146fdeb1fc891f2d98"
+          }
+        },
+        {
+          "client_id": "591692586605-e76p8mhbn92tt1e8gfoo2hgf875fg8mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzizTGHGniW4hYpoqU-wC4ATzhe2uEvKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591692586605-e76p8mhbn92tt1e8gfoo2hgf875fg8mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

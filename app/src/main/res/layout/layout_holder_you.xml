@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:padding="4sp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:gravity="center_vertical"
+        android:paddingRight="55sp"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/tv_chat_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/tv_time"
+            android:background="@drawable/bg_chat_you"
+            android:padding="@dimen/space10"
+            android:text="Hi, joe how are you, do you like to join our party in next week because you don't like party?"
+            android:textAppearance="@style/Light"
+            android:textColor="@color/colorTextBlack"
+            android:textSize="@dimen/h3" />
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:drawableLeft="@drawable/ic_clock"
+            android:drawablePadding="@dimen/space5"
+            android:text="5:04pm"
+            android:textAppearance="@style/ExtraLight"
+            android:textColor="@color/colorTextInfo"
+            android:textSize="@dimen/h4" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
