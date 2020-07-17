@@ -7,8 +7,8 @@ Join room with only user display name and room name without registration
 <td> <img src="https://raw.githubusercontent.com/ChuaN15/SecretChatroom/master/Screenshot_1595006981.png" alt="Drawing" style="width: 250px; height: 300px"/> </td>
 </tr></table>
 
-/
-Different privacy level on notification can be set on different room 
+
+/Different privacy level on notification can be set on different room 
 <table><tr>
 <td> <img src="https://raw.githubusercontent.com/ChuaN15/SecretChatroom/master/Screenshot_1595007413.png" alt="Drawing" style="width: 250px; height: 300px"/> </td>
 <td> <img src="https://raw.githubusercontent.com/ChuaN15/SecretChatroom/master/Screenshot_1595007397.png" alt="Drawing" style="width: 250px; height: 300px"/> </td>
