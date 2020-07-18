@@ -13,4 +13,4 @@ Different privacy level on notification can be set on different room
 <table><tr>
 <td> <img src="https://raw.githubusercontent.com/ChuaN15/SecretChatroom/master/Screenshot_1595007413.png" alt="Drawing" width="250" height="450" style="max-width:100%;"/> </td>
 <td> <img src="https://raw.githubusercontent.com/ChuaN15/SecretChatroom/master/Screenshot_1595007397.png" alt="Drawing" width="250" height="450" style="max-width:100%;"/> </td>
-</tr></table>
+</tr></table> 
