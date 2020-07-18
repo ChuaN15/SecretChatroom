@@ -1,5 +1,5 @@
 # Secret Chatroom
-SecretChatroom is anonymous chat room application developed with Java and Firebase. There is no user registration required. You only need to pick a username before enter a room then you are good to go. Not only does this make it quick and easy to use but it's very secure and private. There is zero personal information stored. Only the conversations are stored and those are automatically removed after 30 days.
+SecretChatroom is anonymous chat room application developed with Java and Firebase. There is no user registration required. You only need to pick a username before enter a room then you are good to go. Not only does this make it quick and easy to use but it's very secure and private. There is zero personal information stored.
 
 # Chat without registration 
 Join room with only user display name and room name
